@@ -1,5 +1,5 @@
 import React from "react";
-import DownloadCv from "../../assets/Resume.pdf";
+import DownloadCv from "../../assets/NitishResume.pdf";
 
 const data = [
   {
